@@ -1,13 +1,16 @@
-<!-- TOP ULTRA-MODERN HEADER -->
 <div align="center">
 
-  <!-- Glow/Modern Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24&height=260&section=header&text=NOOR%20AHMAD&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL-STACK%20%26%20SYSTEMS%20DEVELOPER&descAlignY=62&descScale=20" width="100%" alt="Header Banner" />
+  <!-- Direct Link to Uploaded Image File -->
+  <img src="Gemini_Generated_Image_5csviy5csviy5csv.png" width="100%" alt="Frontend Developer Banner" />
 
   <br/><br/>
 
-  <!-- Dynamic Animated Tech Status -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Systems+🚀;Frontend+%26+UI%2FUX+Architect+💻;Python+%26+Automation+Engineer+🤖;Turning+Logic+into+High-Performance+Code+⚡" alt="Typing SVG" />
+  <!-- Aapki Custom Typing SVG Image -->
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=500&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Noor+Ahmad;Front-end+Web+Developer;Office+Management+Expert;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    </a>
+  </p>
 
   <br/>
 
@@ -39,7 +42,7 @@ type Developer = {
 
 const NoorAhmad: Developer = {
   name: "Noor Ahmad",
-  role: "Web Developer & Systems Enthusiast",
+  role: "Frontend Developer & Office Management Expert",
   coreStack: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Python"],
   education: "DAE - Computer Information Technology (SBTE)",
   speed: "Professional Touch Typist ⚡",
