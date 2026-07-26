@@ -14,12 +14,13 @@
 
   <br/>
 
+  <!-- Quick Badges + Top Profile View Counter -->
   <p align="center">
     <a href="mailto:noorahmad7316125@gmail.com">
       <img src="https://img.shields.io/badge/Email-noorahmad7316125%40gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=00FF66" />
     </a>
     <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-101010?style=for-the-badge&logo=googlemaps&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/Status-Building_%26_Grinding-101010?style=for-the-badge&logo=codeforces&logoColor=00FF66" />
+    <img src="https://komarev.com/ghpvc/?username=noorahmadstudent2024-sketch&color=00FF66&style=for-the-badge&label=PROFILE+VIEWS+🗿" alt="Profile Views Counter" />
   </p>
 
 </div>
